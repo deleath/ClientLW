@@ -8,13 +8,55 @@
   },
   {
     "id": 2,
-    "title": "Курица по-пару",
+    "title": "Курица на-пару",
     "description": "Лёгкое и полезное блюдо, приготавляемое на пару.",
-    "imgURL": "https://куриноецарство.рф/storage/recipe/2022/08/22/04c951952b706f1bcc13c038bec2bd906c3bb90d.jpeg",
+    "imgURL": "https://img.iamcook.ru/old/upl/recipes/cat/u-fa8789142a74f6b360a2b6268e5cd5e6.jpg",
     "ingredients": ["Куриное филе", "Соль", "Пищевая пленка", "Специи"]
   },
   {
     "id": 3,
+    "title": "Торт Напольон",
+    "description": "Слойка с кремом и ванильным вкусом.",
+    "imgURL": "https://img1.russianfood.com/dycontent/images_upl/248/big_247210.jpg",
+    "ingredients": ["Мука", "Сахар", "Масло", "Яйца", "Молоко"]
+  },
+  {
+    "id": 4,
+    "title": "Паста карбонара",
+    "description": "Итальянское блюдо из макарон, яиц и сыра.",
+    "imgURL": "https://www.patee.ru/r/x6/11/70/8e/960m.jpg",
+    "ingredients": ["Паста", "Яйца", "Пармезан", "Бекон", "Чёрный перец"]
+  },
+  {
+    "id": 5,
+    "title": "Курица на-пару",
+    "description": "Лёгкое и полезное блюдо, приготавляемое на пару.",
+    "imgURL": "https://img.iamcook.ru/old/upl/recipes/cat/u-fa8789142a74f6b360a2b6268e5cd5e6.jpg",
+    "ingredients": ["Куриное филе", "Соль", "Пищевая пленка", "Специи"]
+  },
+  {
+    "id": 6,
+    "title": "Торт Напольон",
+    "description": "Слойка с кремом и ванильным вкусом.",
+    "imgURL": "https://img1.russianfood.com/dycontent/images_upl/248/big_247210.jpg",
+    "ingredients": ["Мука", "Сахар", "Масло", "Яйца", "Молоко"]
+  },
+  {
+    "id": 7,
+    "title": "Паста карбонара",
+    "description": "Итальянское блюдо из макарон, яиц и сыра.",
+    "imgURL": "https://www.patee.ru/r/x6/11/70/8e/960m.jpg",
+    "ingredients": ["Паста", "Яйца", "Пармезан", "Бекон", "Чёрный перец"]
+  },
+  {
+    "id": 8,
+    "title": "Курица на-пару",
+    "description": "Лёгкое и полезное блюдо, приготавляемое на пару.",
+    "imgURL": "https://img.iamcook.ru/old/upl/recipes/cat/u-fa8789142a74f6b360a2b6268e5cd5e6.jpg",
+    "ingredients": ["Куриное филе", "Соль", "Пищевая пленка", "Специи"]
+  },
+  {
+    "id": 9,
     "title": "Торт Напольон",
     "description": "Слойка с кремом и ванильным вкусом.",
     "imgURL": "https://img1.russianfood.com/dycontent/images_upl/248/big_247210.jpg",
